@@ -193,6 +193,11 @@ img {
 
 .container-hero-ourteam .our-team {
   margin-bottom: 72px;
+  color: var(--NAVY-BLUE);
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
 }
 
 .img-hero {
@@ -223,10 +228,30 @@ img {
   letter-spacing: 0.02em;
 }
 
-.personal-name{
+.personal-name {
   padding: 32px 0;
 }
 
+.hero-ourportfolio {
+  padding: 120px 0;
+}
 
+.container-hero-ourportfolio {
+  text-align: center;
+}
 
+.container-hero-ourportfolio .our-portfolio {
+  margin-bottom: 72px;
+  color: var(--NAVY-BLUE);
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+}
 
+.media-box{
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 24px;
+  row-gap: 48px;
+}
