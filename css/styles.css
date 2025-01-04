@@ -238,6 +238,8 @@ img {
 
 .container-hero-ourportfolio {
   text-align: center;
+  margin-bottom: 8px;
+  border-top: none;
 }
 
 .container-hero-ourportfolio .our-portfolio {
@@ -258,7 +260,6 @@ img {
 
 .macine-info{
   border: 1px solid #e7e9fc;
-  margin-bottom: 8px;
   padding: 32px 16px;
 }
 
