@@ -260,7 +260,6 @@ img {
   border: 1px solid #e7e9fc;
   padding: 32px 16px;
   border-top: none;
-  margin-bottom: 8px;
 }
 
 .item-name {
@@ -279,4 +278,8 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-align: start;
+}
+
+.margin-bottom{
+  margin-bottom: 8px;
 }
