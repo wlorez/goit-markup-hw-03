@@ -279,3 +279,36 @@ img {
   letter-spacing: 0.02em;
   text-align: start;
 }
+
+.footer-base{
+  padding: 100px 0;
+  background-color: var(--NAVY-BLUE);
+}
+
+
+.container-footer{
+  margin-left: 156px;
+}
+
+.container-footer a{
+  display: inline-block;
+  margin-bottom: 16px;
+
+}
+
+.footer-base .info{    
+  color: var(--cloud);
+  max-width: 264px;
+  color: #F4F4FD;
+
+}
+
+.footer-logo{
+  color: #F4F4FD;
+  font-size: 18px;
+  letter-spacing: 0.03em;
+  line-height: 1.167;
+}
+.logo-color{
+  color: var(--IRIS);
+}
