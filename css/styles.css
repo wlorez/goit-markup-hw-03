@@ -236,6 +236,10 @@ img {
   padding: 120px 0;
 }
 
+.gallery-info{
+  margin-bottom: 8px;
+}
+
 .container-hero-ourportfolio {
   text-align: center;
 }
