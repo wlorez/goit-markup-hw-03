@@ -255,3 +255,27 @@ img {
   column-gap: 24px;
   row-gap: 48px;
 }
+
+.macine-info{
+  border: 1px solid #e7e9fc;
+  margin-bottom: 8px;
+  padding: 32px 16px;
+}
+
+.item-name{
+  text-align: start;
+  color: var(--NAVY-BLUE);
+  letter-spacing: 0.02em;
+  font-size: 20px;
+  line-height: 1.2em;
+  font-weight: 500;
+}
+
+.macine-info-item{
+  color: var(--SLATE);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: start;
+}
