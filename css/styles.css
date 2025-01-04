@@ -177,3 +177,8 @@ img {
   letter-spacing: 0.02em;
   color: var(--SLATE);
 }
+
+.text-textbox {
+  width: calc((100%-72px) / 4);
+}
+
