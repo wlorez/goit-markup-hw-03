@@ -99,10 +99,42 @@ img {
   color: var(--OCEAN);
 }
 
-.section {
+.box-type {
+  background-color: var(--NAVY-BLUE);
   padding: 188px 0;
+  text-align: center;
+}
+.container-text-1 {
+  align-items: center;
+  justify-content: center;
 }
 
-.box-type .container .container-hero-1 h1{
+.text-h1 {
   max-width: 496px;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.1;
+  letter-spacing: 0.02em;
+  margin-left: 310px;
+  margin-bottom: 48px;
+  color: white;
+}
+
+.button {
+  display: block;
+  min-width: 169px;
+  height: 56px;
+  border: none;
+  background-color: var(--IRIS);
+  border-radius: 4px;
+  cursor: pointer;
+  margin-left: 477px;
+  color: var(--WHİTE);
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  font-weight: 500;
+}
+
+.button:hover {
+  background-color: var(--OCEAN);
 }
