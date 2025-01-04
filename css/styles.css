@@ -236,7 +236,7 @@ img {
   padding: 120px 0;
 }
 
-.gallery-info{
+.gallery-info {
   margin-bottom: 8px;
 }
 
@@ -273,6 +273,7 @@ img {
   font-size: 20px;
   line-height: 1.2em;
   font-weight: 500;
+  margin-bottom: 8px;
 }
 
 .macine-info-item {
@@ -284,35 +285,32 @@ img {
   text-align: start;
 }
 
-.footer-base{
+.footer-base {
   padding: 100px 0;
   background-color: var(--NAVY-BLUE);
 }
 
-
-.container-footer{
+.container-footer {
   margin-left: 156px;
 }
 
-.container-footer a{
+.container-footer a {
   display: inline-block;
   margin-bottom: 16px;
-
 }
 
-.footer-base .info{    
+.footer-base .info {
   color: var(--cloud);
   max-width: 264px;
-  color: #F4F4FD;
-
+  color: #f4f4fd;
 }
 
-.footer-logo{
-  color: #F4F4FD;
+.footer-logo {
+  color: #f4f4fd;
   font-size: 18px;
   letter-spacing: 0.03em;
   line-height: 1.167;
 }
-.logo-color{
+.logo-color {
   color: var(--IRIS);
 }
