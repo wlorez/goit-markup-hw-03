@@ -99,4 +99,10 @@ img {
   color: var(--OCEAN);
 }
 
+.section {
+  padding: 188px 0;
+}
 
+.box-type .container .container-hero-1 h1{
+  max-width: 496px;
+}
