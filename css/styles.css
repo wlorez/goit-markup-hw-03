@@ -249,21 +249,21 @@ img {
   letter-spacing: 0.02em;
 }
 
-.media-box{
+.media-box {
   display: flex;
   flex-wrap: wrap;
   column-gap: 24px;
   row-gap: 48px;
 }
 
-.macine-info{
+.macine-info {
   border: 1px solid #e7e9fc;
   padding: 32px 16px;
-  margin-bottom: 8px;
   border-top: none;
+  margin-bottom: 8px;
 }
 
-.item-name{
+.item-name {
   text-align: start;
   color: var(--NAVY-BLUE);
   letter-spacing: 0.02em;
@@ -272,7 +272,7 @@ img {
   font-weight: 500;
 }
 
-.macine-info-item{
+.macine-info-item {
   color: var(--SLATE);
   font-weight: 400;
   font-size: 16px;
